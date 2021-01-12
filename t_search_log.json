@@ -1,0 +1,17 @@
+{
+	"search_id": "search_id",
+	"search_employee_no": "검색 회원 no",
+	"search_company_no": "검색 회사 no",
+	"expert_user_no": "전문가 인증 회원 no",
+	"inflow_path": [{ "type": "field" }, { "type": "location" }],
+	"field_stack": [{ "field": "성폭력" }, { "field": "부동산" }],
+	"location_stack": [{ "location": "서울" }, { "location": "성남" }],
+	"lincence": [{ "type": "변호사" }, { "type": "변리사" }],
+	"career": [{ "경력": "전체" }, { "경력": "변호사" }],
+	"sex": [{ "성별": "전체" }],
+	"search_text": "text",
+	"insert_timestamp": "2021-01-01"
+}
+
+// index와 type은 1대1 매칭
+                 
